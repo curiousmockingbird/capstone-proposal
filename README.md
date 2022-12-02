@@ -10,3 +10,4 @@
 * 12:55 AM: <span style="color:red">Action:</span> Trying out the { userParams } hook from the React Router DOM in a sample React App.
 * 13:30 AM: <span style="color:red">Action:</span> Working on Capstone Proposal.
 * 13:50 AM: <span style="color:red">Online Research & Action:</span> Trying out the npm Express package.
+* 14:00 AM: <span style="color:red">Action:</span> Experimenting with the npm Express package generated endpoints.
