@@ -7,3 +7,4 @@
 * 11:50 AM: <span style="color:red">Action:</span> Successfully implemented custom stylesheet in sample React App.
 * 12:05 AM: <span style="color:red">Online research:</span> Checking out the React Router DOM npm package.
 * 12:20 AM: <span style="color:red">Action:</span> Trying out the React Router DOM in a sample React App.
+* 12:55 AM: <span style="color:red">Action:</span> Trying out the { userParams } hook from the React Router DOM in a sample React App.
