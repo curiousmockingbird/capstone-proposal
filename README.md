@@ -5,3 +5,4 @@
 * 11:00 AM: <span style="color:red">Action:</span> Updated Node.js on my computer (v19.2.0) through npm-based node version manager N.
 * 11:35 AM: <span style="color:red">Online research:</span> Researching how to add Stylesheets to a React App.
 * 11:50 AM: <span style="color:red">Action:</span> Successfully implemented custom stylesheet in sample React App.
+* 12:05 AM: <span style="color:red">Online research:</span> Checking out the React Router DOM npm package.
