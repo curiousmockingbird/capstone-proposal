@@ -14,3 +14,4 @@
 * 14:30 AM: <span style="color:red">Research & Action:</span> Experimenting with middleware functionality in Express.
 ##### Monday, December 5
 * 06:30 AM: <span style="color:red">Research & Action:</span> Experimenting with api endpoints using Express and Node.js in sample project.
+* 07:00 AM: <span style="color:red">Research & Action:</span> Experimenting with MongoDB to store data and make it permanent for apps.
