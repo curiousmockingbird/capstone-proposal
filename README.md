@@ -17,3 +17,4 @@
 * 07:00 AM: <span style="color:red">Research & Action:</span> Experimenting with MongoDB to store data and make it permanent for apps.
 * 12:10 AM: <span style="color:red">Action:</span> Successfully integrated MongoDB with sample React backend app.
 * 12:20 AM: <span style="color:red">Action:</span> Initialized Mongo Demon to interact with database via the Mongo terminal shell.
+* 12:30 AM: <span style="color:red">Action:</span> Using MongoDB driver npm package to make queries to the database through Node.js.
