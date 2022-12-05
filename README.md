@@ -12,3 +12,5 @@
 * 13:50 AM: <span style="color:red">Online Research & Action:</span> Trying out the npm Express package.
 * 14:00 AM: <span style="color:red">Action:</span> Experimenting with the npm Express package generated endpoints.
 * 14:30 AM: <span style="color:red">Research & Action:</span> Experimenting with middleware functionality in Express.
+##### Monday, December 5
+* 06:30 AM: <span style="color:red">Research & Action:</span> Experimenting with api endpoints using Express and Node.js in sample project.
