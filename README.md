@@ -20,3 +20,4 @@
 * 12:30 AM: <span style="color:red">Action:</span> Using MongoDB driver npm package to make queries to the database through Node.js.
 * 12:50 AM: <span style="color:red">Action:</span> Getting familiar with MongoDB operators.
 * 13:10 AM: <span style="color:red">Action:</span> Successfully integrated Express server with MongoDB to store database data.
+* 13:55 AM: <span style="color:red">Research:</span> Knowing about { useState, useEffect } React hooks to add logic that will be executed outside of the normal component rendering.
